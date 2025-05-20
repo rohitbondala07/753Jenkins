@@ -1,1 +1,1 @@
-# Jenkins CI Demo
+# Jenkins Integration Project
